@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Habeeb Oyediran
-Data Scientist, Digital marketer
+Data Scientist, Digital Business.
 --------------------------------
 
 I’m a Data Scientist, passionate about building data-driven products. My projects showcase skills in Python, SQL, R, Excel, Power BI, and Tableau, focusing on data analysis, visualization, and AI integration. Follow along as I develop real-world solutions and explore the world of data science
