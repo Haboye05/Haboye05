@@ -1,6 +1,5 @@
-## Hi there 👋
+## Habeeb Oyediran
 
-My name is Habeeb Oyediran
 Data Scientist, Digital Business.
 --------------------------------
 
